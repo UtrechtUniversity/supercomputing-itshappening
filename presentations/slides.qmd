@@ -4,7 +4,7 @@ format:
     self-contained: true
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: "Jelle Treep, RDMS"
+    footer: "Jelle Treep, RDMS | slides: edu.nl/664nn"
 ---
 
 # (Super)computing @ ITS{data-background-color="#FFCD00"}
@@ -63,14 +63,32 @@ Accessible for UU Researchers!
 
 ![](images/computingcall.png){width=70%}
 
-## Long tail
 
-![](images/Long-Tail.png){width=70%}
+## Trends
 
-## What is supercomputing?
+::: {.theme-section}
 
-![](images/scalingout.png){width=70%}
+:::: {.columns}
+::: {.column width=50%}
 
+<br>
+
+- Large increase in demand for HPC
+- New disciplines!
+- Adoption of AI
+- Consortia
+- Sensitive data
+
+:::
+::: {.column width=50%}
+
+<br>
+
+![](images/scalingout.png){width=90%}
+
+:::
+::::
+:::
 
 ## HPC support at ITS
 
@@ -79,6 +97,8 @@ Accessible for UU Researchers!
 
 :::: {.columns}
 ::: {.column width=50%}
+
+<br>
 
 - Initiated by Kees van Eijden (since 2016?)
 - RCCS contract
@@ -128,11 +148,9 @@ Making sure UU researchers have low barrier access to computing resources
   - large-scale data analysis
   - accelerating scientific discovery
 
-- Increasing need for VREs, training and support
-  - New disciplines, long tail
-  - Adoption of AI
-  - Consortia
-  - Sensitive data
+- Increasing need for VREs, new disciplines
+  - training and support
+
 
 :::
 
@@ -141,7 +159,6 @@ Making sure UU researchers have low barrier access to computing resources
 ::: {.theme-section}
 
 - New Dutch supercomputer in 2027
-- Federation and interoperability
 - Collaborative VRE development
 - Collaborative training program
 
