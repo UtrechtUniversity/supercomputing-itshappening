@@ -1,0 +1,190 @@
+--- 
+format: 
+  revealjs:
+    self-contained: true
+    theme: themes/uu.scss
+    logo: images/UU_logo_2021_EN_RGB.png
+    footer: "Jelle Treep, RDMS"
+---
+
+# (Super)computing @ ITS{data-background-color="#FFCD00"}
+
+## HPC consultancy and support 
+
+#### by Research Engineering team
+
+<br>
+<br>
+
+::: {layout-nrow=1}
+
+![Christine Staiger](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=67209&t=)
+
+![Shiva Nadi](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=)
+
+![Dawa Ometto](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=)
+
+![Roel Brouwer](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=24800&t=)
+:::
+
+## What is supercomputing?
+
+<br>
+<br>
+
+::: {.theme-section}
+> High Performance Computing, known as supercomputing, is really nothing less than the ability to process complex (computational) tasks at very high speed. The machine you use to do this is called a Supercomputer. (EuroCC Netherlands)
+
+:::
+
+## What is supercomputing?
+
+::: {.theme-section}
+Todays biggest supercomputers have:
+
+- (hundreds of) thousands of CPU cores
+- thousands of GPUs
+- petabytes of storage
+- fast interconnect (e.g. 200 Gbit/s)
+
+~10^18 floating point operations per second (Exascale)
+:::
+
+## The LUMI Supercomputer
+
+::: {.theme-section}
+
+![](images/LUMI_supercomputer_2022_web.jpg){width=90%}
+
+
+Accessible for UU Researchers!
+:::
+
+## Snellius
+
+::: {.theme-section}
+![](images/sciencepark.png){width=70%}
+:::
+
+## Example Research Areas
+
+::: {.theme-section}
+| Domain | Example Applications |
+|:--|:--|
+| **Climate and Earth Sciences** | Weather, ocean, and groundwater models |
+| **Life Sciences** | Protein folding, molecular dynamics |
+| **Physics & Chemistry** | Quantum modelling and materials simulations |
+| **Humanities** | Large language models |
+:::
+
+## Computing call
+
+![](images/computingcall.png){width=70%}
+
+## Long tail
+
+![](images/Long-Tail.png){width=70%}
+
+## Trends
+
+::: {.theme-section-large}
+
+- Larger scale, finer resolution
+- New disciplines, long tail
+- Adoption of AI
+- Consortia
+- Sensitive data
+
+
+:::
+
+## What is supercomputing?
+
+![](images/scalingout.png){width=70%}
+
+
+## HPC support at ITS
+
+::: {.theme-section}
+
+
+:::: {.columns}
+::: {.column width=50%}
+
+- Initiated by Kees van Eijden (since 2016?)
+- RCCS contract
+- Trial budgets
+- From ~10 users to >100 new users per year
+
+:::
+::: {.column width=50%}
+
+![](https://github.com/UtrechtUniversity/re-surf-research-day-2024/blob/main/presentations/images/yearly_usage.png?raw=true)
+
+:::
+::::
+:::
+
+
+## HPC support at ITS
+
+::: {.theme-section}
+Making sure UU researchers have low barrier access to computing resources
+
+- Trial budgets
+- Consultancy
+- Applications
+- 
+:::
+
+
+
+
+## HPC support at ITS
+
+::: {.theme-section}
+Making sure UU researchers have low barrier access to computing resources
+
+- Trial budgets
+- Consultancy
+- Applications
+- Development
+- Training
+- Support
+:::
+
+## HPC support at ITS
+
+![](images/UU-catalog-item-collection.png){width=70%}
+
+
+## (Super)computing enables:
+
+::: {.theme-section}
+- tackling complex problems
+- large-scale data analysis
+- accelerating scientific discovery
+- collaboration
+- access to sensitive data
+
+:::
+
+## Future Directions
+
+::: {.theme-section}
+
+- New Dutch supercomputer in 2027
+- Federation and interoperability
+- Collaboration with faculties
+- Collaboration with institutes and SURF
+
+:::
+
+# {data-background-color="#FFCD00"}
+
+![](images/UU_logo_2021_EN_RGB_payoff.png)
+
+
+## Small compute applications by UU
+
+![](images/small-compute.png){width=90%}
