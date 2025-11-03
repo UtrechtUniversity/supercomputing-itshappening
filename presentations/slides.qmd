@@ -154,7 +154,7 @@ Making sure UU researchers have low barrier access to computing resources
 
 :::
 
-## Future Directions
+## Future
 
 ::: {.theme-section}
 
