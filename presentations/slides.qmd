@@ -9,24 +9,6 @@ format:
 
 # (Super)computing @ ITS{data-background-color="#FFCD00"}
 
-## HPC consultancy and support 
-
-#### by Research Engineering team
-
-<br>
-<br>
-
-::: {layout-nrow=1}
-
-![Christine Staiger](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=67209&t=)
-
-![Shiva Nadi](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=)
-
-![Dawa Ometto](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=)
-
-![Roel Brouwer](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=24800&t=)
-:::
-
 ## What is supercomputing?
 
 <br>
@@ -85,19 +67,6 @@ Accessible for UU Researchers!
 
 ![](images/Long-Tail.png){width=70%}
 
-## Trends
-
-::: {.theme-section-large}
-
-- Larger scale, finer resolution
-- New disciplines, long tail
-- Adoption of AI
-- Consortia
-- Sensitive data
-
-
-:::
-
 ## What is supercomputing?
 
 ![](images/scalingout.png){width=70%}
@@ -125,6 +94,13 @@ Accessible for UU Researchers!
 ::::
 :::
 
+## How do we organize access?
+
+![](https://github.com/UtrechtUniversity/re-surf-research-day-2024/blob/main/presentations/images/website.png?raw=true){width=75%}
+
+- Intake with Research engineer (30 minutes)
+- Trial budget
+- &rarr; Onboarding time ~2 days
 
 ## HPC support at ITS
 
@@ -133,22 +109,8 @@ Making sure UU researchers have low barrier access to computing resources
 
 - Trial budgets
 - Consultancy
-- Applications
-- 
-:::
-
-
-
-
-## HPC support at ITS
-
-::: {.theme-section}
-Making sure UU researchers have low barrier access to computing resources
-
-- Trial budgets
-- Consultancy
-- Applications
-- Development
+- Grant applications
+- VRE development
 - Training
 - Support
 :::
@@ -157,15 +119,20 @@ Making sure UU researchers have low barrier access to computing resources
 
 ![](images/UU-catalog-item-collection.png){width=70%}
 
-
-## (Super)computing enables:
+## Summarizing
 
 ::: {.theme-section}
-- tackling complex problems
-- large-scale data analysis
-- accelerating scientific discovery
-- collaboration
-- access to sensitive data
+
+- Supercomputing enables 
+  - tackling complex problems
+  - large-scale data analysis
+  - accelerating scientific discovery
+
+- Increasing need for VREs, training and support
+  - New disciplines, long tail
+  - Adoption of AI
+  - Consortia
+  - Sensitive data
 
 :::
 
@@ -175,9 +142,25 @@ Making sure UU researchers have low barrier access to computing resources
 
 - New Dutch supercomputer in 2027
 - Federation and interoperability
-- Collaboration with faculties
-- Collaboration with institutes and SURF
+- Collaborative VRE development
+- Collaborative training program
 
+:::
+
+## Questions?
+
+<br>
+<br>
+
+::: {layout-nrow=1}
+
+![Christine Staiger](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=67209&t=)
+
+![Shiva Nadi](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=48910&t=)
+
+![Dawa Ometto](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=73936&t=)
+
+![Roel Brouwer](https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=24800&t=)
 :::
 
 # {data-background-color="#FFCD00"}
